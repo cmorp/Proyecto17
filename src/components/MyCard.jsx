@@ -1,7 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
 import Boton from './Boton';
-import Tags from "./Tags";
 
 const MyCard = ({ image, title, description, colorButton, textButton }) => {
     return (
